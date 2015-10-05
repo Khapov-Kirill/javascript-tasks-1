@@ -40,6 +40,5 @@ else {
 	str += ":";
 	small(m_dec);
 	big(m_uni);
-
 	console.log(str);
 }
